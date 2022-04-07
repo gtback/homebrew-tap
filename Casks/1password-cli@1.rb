@@ -1,4 +1,4 @@
-cask "1password-cli" do
+cask "1password-cli@1" do
   version "1.12.4"
   sha256 "a484de66fa64252c51f3a90d6b8a1dad70bd4537b786466f897b99badb51a1ee"
 
